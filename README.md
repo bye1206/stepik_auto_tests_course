@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
 home_exercise_for_stepik_course
+exercise 1
